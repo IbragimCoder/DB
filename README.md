@@ -7,6 +7,8 @@ In order for the code to work, you need to install Qt (preferably Qt 6), as well
 In my database you will be able to add delete check for existence clean and view the database.
 The dbmanager class contains the logic and Sqlite commands. The interfaceDB class uses Qt for graphic design, as well as to use functionality and logic, the interfaceDB class was inherited by the dbmanager class.
 
+Here is a small sample code from the project:
 
+<font size="5">Description</font>
 
 
