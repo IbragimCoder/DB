@@ -11,4 +11,16 @@ Here is a small sample code from the project:
 
 <font size="100">Description</font>
 
+This code is an Add() method in the Interface DB class. It performs the following actions:
+
+Clears text labels.
+Checks if the lineedit input field is empty.
+If the input field is not empty:
+Gets the name from the input field.
+Adds this name to the dataset.
+Calls the AddPerson(name) function.
+Clears the input field.
+Sets the text label to “operation completed successfully".
+Sets the text label to “log in to the database to check for changes".
+Disables the input field.
 
