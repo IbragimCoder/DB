@@ -24,3 +24,22 @@ Sets the text label to “operation completed successfully".
 Sets the text label to “log in to the database to check for changes".
 Disables the input field.
 
+``` c++
+void InterfaceDB::Add()
+{
+    QString name;
+    label_1->clear();
+    label_2->clear();
+    if (!lineEdit->text().isEmpty())
+    {
+        name = lineEdit->text();
+        dataset.push_back(name);
+        addPerson(name);
+        lineEdit->clear();
+        label_1->setText("the operation was successful");
+        label_2->setText("to check the changes, log into the database");
+        lineEdit->setDisabled(true);
+    }
+
+}
+```
