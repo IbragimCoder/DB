@@ -1,0 +1,9 @@
+[requires]
+sqlite3/3.34.1
+
+[generators]
+cmake_find_package
+
+[imports]
+bin, *.dll -> ./bin
+lib, *.dylib* -> ./bin
