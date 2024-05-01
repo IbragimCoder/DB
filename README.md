@@ -9,6 +9,6 @@ The dbmanager class contains the logic and Sqlite commands. The interfaceDB clas
 
 Here is a small sample code from the project:
 
-<font size="5">Description</font>
+<font size="20">Description</font>
 
 
