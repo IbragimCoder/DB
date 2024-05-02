@@ -9,7 +9,7 @@ The dbmanager class contains the logic and Sqlite commands. The interfaceDB clas
 
 Here is a small sample code from the project:
 
-## Description
+## `Description`
 
 This code is an Add() method in the Interface DB class. It performs the following actions:
 
@@ -49,7 +49,7 @@ The logic of writing the rest of the functions from the child class is about the
 
 
 
-## Interface
+## `Interface`
 
 <img src="photo1.jpg" alt>
 
