@@ -60,4 +60,4 @@ After each operation, you need to press the CONTINUE button. Let's say you want 
 
 Here's a video of how it works:
 
-<video src="https://example.com/path/to/my-video.mp4" controls></video>
+![video](video.gif)
