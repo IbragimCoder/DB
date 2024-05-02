@@ -53,3 +53,11 @@ The logic of writing the rest of the functions from the child class is about the
 
 <img src="photo1.jpg" alt>
 
+### How the database works?
+
+After each operation, you need to press the CONTINUE button. Let's say you want to add a person, you should write the name of this person, and then perform the operation that you need, in our case it is adding a person to the database (Add Person) then you will receive a message about your operation, whether it worked correctly, then to continue performing some actions you should click on CONTINUE. Also, if you want, you can view the database at the current time.
+
+
+Here's a video of how it works:
+
+<video src="https://example.com/path/to/my-video.mp4" controls></video>
