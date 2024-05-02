@@ -51,4 +51,5 @@ The logic of writing the rest of the functions from the child class is about the
 
 ## Interface
 
-![Снимок экрана 2024-05-02 015747.jpg](..%2F..%2FDesktop%2F%D1%ED%E8%EC%EE%EA%20%FD%EA%F0%E0%ED%E0%202024-05-02%20015747.jpg)
+<img src="photo1.jpg" alt>
+
